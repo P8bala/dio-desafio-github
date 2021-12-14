@@ -1,0 +1,35 @@
+Lista de Boas Praticas para Proteção de dados atraves dos recursos de Cloud Computer
+
+1.Backup e recuperação será sua linha de defesa. 
+(E por isso, invista na infraestrutura, procedimentos e políticas eficientes.)
+
+2. Fornecedores de proteção de dados precisam se adaptar aos ataques de ransomware. 
+(Adote ferramentas com recursos necessários para prevenção.)
+
+3. Conscientização ainda é o melhor remédio. 
+(Crie políticas e processos de segurança e explique os benefícios em adotá-los.)
+
+4. Gestão eficiente é ferramenta para a proteção dos dados. 
+Administradores de TI devem ter conhecimento das mudanças que ocorrem e devem fazer o controle efetivo.
+
+5. É preciso ter certeza que tudo funciona. 
+(Por isso, em sua estratégia de proteção de dados deve existir testes que verifiquem os procedimentos de backup e recuperação e a integridade do dados.)
+
+6. Performance indica em quanto tempo as operações da empresa serão restabelecidas. 
+(Verifique os indicadores de desempenho para verificar em quanto tempo é possível retornar as operações.)
+
+7. Certificação e conformidade fazem parte das boas práticas. 
+(Buscar certificar seu ambiente de TI é aplicar as boas experiências por quem já passou por erros e acertos.)
+
+8. Ajuda no momento de dificuldade. 
+(Tenha um suporte alinhado e capacitado para a estratégia de proteção de dados da empresa.)
+
+9. Adotar tecnologia de ponta é essencial para ter sucesso na estratégia. 
+(Ao migrar para a nuvem, a empresa tem acesso a uma infraestrutura de TI atual e integrada com a inovação. Isso inclui questões ligadas a segurança e alta disponibilidade.)
+
+10. Os ataques vão acontecer, isso é fato. 
+(Adotar as melhores práticas para garantir a proteção de dados não é a certeza de impedir os incidentes de segurança, mas é possível prevenir e estar preparado quando eles acontecerem.)
+
+
+Torne a proteção de dados uma prioridade em sua empresa, em um primeiro momento pode parecer um grande desafio, 
+mas a realidade é diferente, com a cloud computing tudo fica mais fácil, é preciso apenas tomar as iniciativas corretas.
